@@ -16,5 +16,5 @@ Error 500 – Internal server error.
 
 **Environment:**  
 Browser: Chrome 124  
-Device: Windows 10  
+Device: Windows 11  
 API: https://qauto.forstudy.space
